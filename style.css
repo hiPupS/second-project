@@ -5,3 +5,7 @@
 .logo {
     padding: auto;
 }
+
+div {
+    max-width: 0;
+}
